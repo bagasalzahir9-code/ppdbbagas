@@ -1,0 +1,36 @@
+AKUN LOGIN UNTUK 5 AKTOR SISTEM PPDB
+=====================================
+
+1. ADMIN PPDB
+   Email: admin@ppdb.com
+   Password: admin123
+   Role: Admin
+
+2. VERIFIKATOR ADMINISTRASI
+   Email: verifikator@ppdb.com
+   Password: verifikator123
+   Role: Verifikator
+
+3. BAGIAN KEUANGAN
+   Email: keuangan@ppdb.com
+   Password: keuangan123
+   Role: Keuangan
+
+4. KEPALA SEKOLAH
+   Email: kepsek@ppdb.com
+   Password: kepsek123
+   Role: Kepala Sekolah
+
+5. CALON SISWA
+   Email: siswa@ppdb.com
+   Password: siswa123
+   Role: Pendaftar
+
+AKUN CALON SISWA TAMBAHAN:
+- Ahmad Rizki Pratama: ahmad@siswa.com / siswa123
+- Siti Nurhaliza: siti@siswa.com / siswa123  
+- Budi Santoso: budi@siswa.com / siswa123
+
+=====================================
+✅ STATUS: AKUN SUDAH BERHASIL DIBUAT
+Database telah di-seed dengan semua akun di atas
